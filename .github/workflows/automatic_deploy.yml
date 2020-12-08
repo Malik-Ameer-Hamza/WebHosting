@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: installing node
-        uses: actions/setyp-node@v2-beta
+        uses: actions/setup-node@v2-beta
         with:
           node-version: 15  
       # Runs a set of commands using the runners shell
