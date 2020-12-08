@@ -9,6 +9,13 @@
     color: white;
     
 }
+.drwaish_images{
+    width: 150px;
+    height: 150px;
+    border: 2px solid #f44336;
+    border-radius: 30%;
+    margin-right: 20px;
+}
 .nav{
     width: 19%;
     height: 100%;
